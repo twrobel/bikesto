@@ -1,5 +1,10 @@
+---
+layout: post
+title:  Privacy policy
+project: bikesto
+---
 
-This  privacy policy applies to all information collected through our  mobile application, ("**Apps**"),  and/or any related services, sales, marketing or events (we refer to them collectively in this  privacy policy as the "**Services**").
+This  privacy policy applies to all information collected through our mobile application, ("**Apps**"),  and/or any related services, sales, marketing or events (we refer to them collectively in this  privacy policy as the "**Services**").
 
 **Please read this  privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
 
@@ -22,7 +27,7 @@ The personal information that we collect depends on the context of your interact
 
 **Payment Data.** We collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by Google. You may find their privacy policy link(s) here: [https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice&ldl=en-GB](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice&ldl=en-GB).
 
-**Social Media Login Data.** We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS](https://app.termly.io/dashboard/website/363525/privacy-policy#sociallogins)" below.
+**Social Media Login Data.** We may provide you with the option to register using social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the Information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS" below.
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
@@ -34,7 +39,7 @@ We automatically collect certain information when you visit, use or navigate the
 
 **Online Identifiers.**  We collect  applications;  device's geolocation;  and other similar data.
 
-****Information collected through our Apps****
+**Information collected through our Apps**
 
 **_In Short:_** _We may collect information regarding your  geo-location,_  push notifications,  _when you use our apps._
 
@@ -55,10 +60,10 @@ We use personal information collected via our  Apps  for a variety of business p
 
 We use the information we collect or receive:
 
--   **To facilitate account creation and logon process.** If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract.  See the section below headed "[HOW DO WE HANDLE YOUR SOCIAL LOGINS](https://app.termly.io/dashboard/website/363525/privacy-policy#sociallogins)" for further information.  
+-   **To facilitate account creation and logon process.** If you choose to link your account with us to a third party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract.  See the section below headed "HOW DO WE HANDLE YOUR SOCIAL LOGINS" for further information.  
       
     
--   **To send you marketing and promotional communications.** We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the "[WHAT ARE YOUR PRIVACY RIGHTS](https://app.termly.io/dashboard/website/363525/privacy-policy#privacyrights)" below).  
+-   **To send you marketing and promotional communications.** We and/or our third party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS" below).  
       
     
 -   **To send administrative information to you.** We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.  
@@ -67,7 +72,7 @@ We use the information we collect or receive:
 -   **Fulfill and manage your orders.** We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the  Apps.  
       
     
--   **To post testimonials.** We post testimonials on our  Apps  that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update, or delete your testimonial, please contact us at  dpo.lask.studio@gmail.com  and be sure to include your name, testimonial location, and contact information.  
+-   **To post testimonials.** We post testimonials on our  Apps  that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and testimonial. If you wish to update, or delete your testimonial, please contact us at   {{site[page.project].support_email}}  and be sure to include your name, testimonial location, and contact information.  
       
     
 -   **Deliver targeted advertising to you.** We may use your information to develop and display content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.  
@@ -184,7 +189,7 @@ We have implemented appropriate technical and organizational security measures d
 
 **_In Short:_** _We do not knowingly collect data from or market to children under 18 years of age._
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the  Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the  Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at  dpo.lask.studio@gmail.com.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the  Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the  Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at   {{site[page.project].support_email}}.
 
   
 
@@ -194,7 +199,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
 If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
 
-If you have questions or comments about your privacy rights, you may email us at  privacy.lask.studio@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at   {{site[page.project].support_email}}.
 
   
 
@@ -214,7 +219,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 **10. DATA BREACH**
 
-A privacy breach occurs when there is unauthorized access to or collection, use, disclosure or disposal of personal information. You will be notified about data breaches when  LaskStudio  believes you are likely to be at risk or serious harm. For example, a data breach may be likely to result in serious financial harm or harm to your mental or physical well-being. In the event that  LaskStudio  becomes aware of a security breach which has resulted or may result in unauthorized access, use or disclosure of personal information  LaskStudio  will promptly investigate the matter and notify the applicable Supervisory Authority not later than 72 hours after having become aware of it, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons.
+A privacy breach occurs when there is unauthorized access to or collection, use, disclosure or disposal of personal information. You will be notified about data breaches when  {{site.company}}  believes you are likely to be at risk or serious harm. For example, a data breach may be likely to result in serious financial harm or harm to your mental or physical well-being. In the event that   {{site.company}}  becomes aware of a security breach which has resulted or may result in unauthorized access, use or disclosure of personal information   {{site.company}}  will promptly investigate the matter and notify the applicable Supervisory Authority not later than 72 hours after having become aware of it, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons.
 
   
 
@@ -244,20 +249,5 @@ We may update this  privacy policy from time to time. The updated version will b
 
 **14. HOW CAN YOU CONTACT US ABOUT THIS POLICY?**
 
-If you have questions or comments about this policy, you may  email us at  dpo.lask.studio@gmail.com  or by post to:
+If you have questions or comments about this policy, you may  email us at  {{site[page.project].support_email}} 
 
-LaskStudio
-
-730 Dovercourt Rd
-
-Toronto,  Ontario  M6H 2W9
-
-Canada
-
-  
-
-**HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
-
-Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please  submit a request form by clicking  [here](https://app.termly.io/notify/4d502e8a-fb5a-4326-b29a-7aa9e88d2808). We will respond to your request within 30 days.
-
-This privacy policy was created using  [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
