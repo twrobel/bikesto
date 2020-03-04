@@ -1,14 +1,18 @@
+---
+layout: page
+title: Terms and conditions
+project: bikesto
+---
 
 **TERMS AND CONDITIONS**
-
-  
+ 
 
 **Last Updated  02  March 2020**
   
 
 **1.**  **Agreement to Terms**
 
-1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (**you**), and  **LaskStudio**,  located at **__________,**  **__________,** **__________  __________** (**we**,  **us**), concerning your access to and use of the  **bikesTO** **([http://bikesto.ca](http://bikesto.ca/))** website as well as any related applications (the  **Site**).
+1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (**you**), and  **{{site.company}}** (**we**,  **us**), concerning your access to and use of the  **{{site[page.project].title}}** **([{{site[page.project].website}}]({{site[page.project].website}}))** website as well as any related applications (the  **Site**).
 
   
 
@@ -44,9 +48,9 @@ The Site provides the following services:  **Offering information about location
 
   
 
-**●** Our Privacy Notice  bikesto.ca/privacynotice, which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the Site, you consent to such processing and you warrant that all data provided by you is accurate.
+**●** Our Privacy Notice [{{site[page.project].privacy_link}}]({{site[page.project].privacy_link}}), which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the Site, you consent to such processing and you warrant that all data provided by you is accurate.
 
-**●** Our Acceptable Use Policy  bikesto.ca/aup, which sets out the permitted uses and prohibited uses of the Site. When using the Site, you must comply with this Acceptable Use Policy.
+**●** Our Acceptable Use Policy [{{site[page.project].aup_link}}]({{site[page.project].aup_link}}), which sets out the permitted uses and prohibited uses of the Site. When using the Site, you must comply with this Acceptable Use Policy.
 
 **●** If you purchase  services, and/or  content  from the Site, our terms and conditions of supply  [https://openrouteservice.org/terms-of-service/](https://openrouteservice.org/terms-of-service/)  will apply to the sales and use.
 
@@ -56,7 +60,7 @@ The Site provides the following services:  **Offering information about location
 
   
 
-2.1 Our full Acceptable Use Policy  bikesto.ca/aup, sets out all the permitted uses and prohibited uses of this site.
+2.1 Our full Acceptable Use Policy  [{{site[page.project].aup_link}}]({{site[page.project].aup_link}}), sets out all the permitted uses and prohibited uses of this site.
 
   
 
@@ -304,9 +308,8 @@ If we determine, in our sole discretion, that your use of the Site/Services is i
 
   
 
-9.9 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us by email at  support.lask.studio@gmail.com  or by post to:
+9.9 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us by email at {{site.company_support_email}}  or by post to:
 
   
 
-LaskStudio
-
+{{site.company}}
