@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+
+domain: laskstudio.com
+company: LaskStudio
+company_address: 
+company_support_email: support@laskstudio.com
+
+bikesto:
+  title: bikesTO
+  destination: Toronto
+  aup_link: http://laskstudio.com/bikesto/aup
+  privacy_link: http://laskstudio.com/bikesto/privacy-policy
+  website: http://laskstudio.com/bikesto
+  support_email: support.bikesto@laskstudio.com
