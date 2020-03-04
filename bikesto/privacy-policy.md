@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Privacy policy
 project: bikesto
 ---
