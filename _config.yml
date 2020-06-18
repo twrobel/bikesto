@@ -14,8 +14,4 @@ bikesto:
   website: http://laskstudio.com/bikesto
   support_email: support.bikesto@laskstudio.com
 
-defaults:
-  - scope:
-      path: "assets"
-    values:
-      image: true
+baseurl: /bikesto
