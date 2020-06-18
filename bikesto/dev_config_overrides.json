@@ -1,0 +1,3 @@
+{
+"mapUrlTemplate": "http://tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
+}
